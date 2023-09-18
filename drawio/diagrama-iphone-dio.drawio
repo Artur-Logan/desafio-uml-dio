@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" modified="2023-09-14T22:52:03.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_LDVcWPHzIXH9lDn_tJY" version="21.7.5" type="device">
+  <diagram name="Página-1" id="odeoj21SuFesxUso3U2s">
+    <mxGraphModel dx="756" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="470" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dJJvxRWx4uFNhb9gutmt-4" target="dJJvxRWx4uFNhb9gutmt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.38;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="dJJvxRWx4uFNhb9gutmt-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595.3" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="595" y="435" />
+              <mxPoint x="425" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dJJvxRWx4uFNhb9gutmt-16" target="dJJvxRWx4uFNhb9gutmt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-16" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.note;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="29.7" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dJJvxRWx4uFNhb9gutmt-18" target="dJJvxRWx4uFNhb9gutmt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-18" value="&lt;br&gt;&lt;span style=&quot;color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Navegador na Internet&lt;br&gt;&lt;/span&gt;&lt;br&gt;exibirPagina()&lt;br&gt;atualizarPagina()&lt;br&gt;adicionarNovaAba()&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="220" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-21" value="&lt;br&gt;&lt;span style=&quot;color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Aparelho Telefônico&lt;br&gt;&lt;/span&gt;&lt;br&gt;ligar()&lt;br&gt;atender()&lt;br&gt;iniciarCorreioVoz()&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="529.7" y="220" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="dJJvxRWx4uFNhb9gutmt-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415.5" y="329" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-25" value="&lt;br&gt;&lt;span style=&quot;color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Reprodutor Musical&lt;br&gt;&lt;/span&gt;&lt;br&gt;tocar()&lt;br&gt;pausar()&lt;br&gt;selecionarMusica()" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="220" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-31" value="" style="shape=mxgraph.signs.tech.telephone_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-32" value="IPHONE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386.1" y="585" width="77.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="dJJvxRWx4uFNhb9gutmt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dJJvxRWx4uFNhb9gutmt-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
